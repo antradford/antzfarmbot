@@ -1,6 +1,6 @@
 {
   "name": "antzfarmbot",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "private": true,
   "author": "Ant Radford <ant.radford@gmail.com>",
   "description": "A hubot powered, helpful little robot for your The Antz Farm Slack service",
