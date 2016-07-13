@@ -212,3 +212,6 @@ Add the subdomain hubot should connect to. If you web URL looks like
 
 You may want to get comfortable with `heroku logs` and `heroku restart` if
 you're having issues.
+
+
+https://codeship.com/projects/ec8a4650-2b19-0134-b4b6-0e7be9caba1e/status?branch=master
